@@ -1,0 +1,250 @@
+{
+  "firmName": "LexGuard Associates",
+  "tagline": "Excellence in Legal Advocacy",
+  "description": "Providing exceptional legal services with integrity and dedication",
+  "contact": {
+    "phone": "+1 (555) 123-4567",
+    "email": "info@lexguard.com",
+    "address": "123 Legal Avenue, Suite 100, New York, NY 10001",
+    "hours": "Mon-Fri: 9:00 AM - 6:00 PM"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/company/lexguard",
+    "twitter": "https://twitter.com/lexguard",
+    "facebook": "https://facebook.com/lexguard"
+  },
+  "hero": {
+    "slides": [
+      {
+        "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Justice Served with Excellence",
+        "subtitle": "Over 25 years of combined legal experience"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Your Trusted Legal Partners",
+        "subtitle": "Dedicated to protecting your rights"
+      },
+      {
+        "image": "https://plus.unsplash.com/premium_photo-1661340734008-73efe1324d78?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "title": "Results That Matter",
+        "subtitle": "99% success rate in corporate cases"
+      }
+    ]
+  },
+  
+  "stats": [
+    {
+      "label": "Cases Won",      
+      "value": 1500,             
+      "icon": "Trophy"           
+    },
+    {
+      "label": "Happy Clients",   
+      "value": 1200,              
+      "icon": "Users"            
+    },
+    {
+      "label": "Years Experience",
+      "value": 25,                
+      "icon": "Calendar"           
+    },
+    {
+      "label": "Expert Attorneys",
+      "value": 15,                
+      "icon": "Scale"             
+    }
+  ],
+
+
+  "practiceAreas": [
+    {
+      "id": 1,
+      "title": "Corporate Law",
+      "description": "Comprehensive legal solutions for businesses of all sizes",
+      "icon": "Building2",
+      "cases": 450
+    },
+    {
+      "id": 2,
+      "title": "Criminal Defense",
+      "description": "Aggressive representation in criminal proceedings",
+      "icon": "Scale",
+      "cases": 300
+    },
+    {
+      "id": 3,
+      "title": "Family Law",
+      "description": "Compassionate guidance through family matters",
+      "icon": "Heart",
+      "cases": 275
+    },
+    {
+      "id": 4,
+      "title": "Real Estate",
+      "description": "Expert counsel in property transactions",
+      "icon": "Home",
+      "cases": 325
+    },
+    {
+      "id": 5,
+      "title": "Personal Injury",
+      "description": "Maximum compensation for injury claims",
+      "icon": "Activity",
+      "cases": 250
+    },
+    {
+      "id": 6,
+      "title": "Immigration Law",
+      "description": "Navigating complex immigration processes",
+      "icon": "Globe",
+      "cases": 380
+    }
+  ],
+  "attorneys": [
+    {
+      "id": 1,
+      "name": "John Anderson",
+      "title": "Senior Partner",
+      "specialization": "Corporate Law",
+      "experience": 20,
+      "image": "https://images.unsplash.com/photo-1733348137479-2e726d326d9b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D",
+      "bio": "Harvard Law graduate with extensive corporate experience"
+    },
+    {
+      "id": 2,
+      "name": "Lucifer Martinez",
+      "title": "Partner",
+      "specialization": "Criminal Defense",
+      "experience": 15,
+      "image": "https://images.unsplash.com/photo-1765438867817-cbf35d0524ec?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDI2fHx8ZW58MHx8fHx8",
+      "bio": "Former prosecutor turned defense attorney"
+    },
+    {
+      "id": 3,
+      "name": "Michael Chen",
+      "title": "Senior Associate",
+      "specialization": "Family Law",
+      "experience": 12,
+      "image": "https://images.unsplash.com/photo-1707394315636-815658801294?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
+      "bio": "Certified family law specialist"
+    },
+    {
+      "id": 4,
+      "name": "Eron Roberts",
+      "title": "Associate",
+      "specialization": "Real Estate",
+      "experience": 8,
+      "image": "https://images.unsplash.com/photo-1613496701765-97267d26e3df?q=80&w=685&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "bio": "Expert in commercial real estate transactions"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Robert Johnson",
+      "role": "CEO, TechStart Inc.",
+      "content": "LexGuard handled our merger with exceptional professionalism. Their expertise saved us millions.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Maria Garcia",
+      "role": "Small Business Owner",
+      "content": "The team was incredibly supportive during my business formation. Highly recommended!",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "David Williams",
+      "role": "Client",
+      "content": "They won my personal injury case and secured fair compensation. Grateful for their dedication.",
+      "rating": 5
+    }
+  ],
+  "whyChooseUs": [
+    {
+      "id": 1,
+      "icon": "Scale",
+      "title": "Expert Legal Counsel",
+      "description": "Seasoned attorneys with decades of combined experience in various practice areas",
+      "highlight": "25+ Years",
+      "highlightIcon": "Clock",
+      "color": "from-blue-500 to-blue-600"
+    },
+    {
+      "id": 2,
+      "icon": "Shield",
+      "title": "Client Protection",
+      "description": "Your rights and interests are our top priority with guaranteed confidentiality",
+      "highlight": "100%",
+      "highlightIcon": "CheckCircle",
+      "color": "from-green-500 to-green-600"
+    },
+    {
+      "id": 3,
+      "icon": "Gavel",
+      "title": "Proven Track Record",
+      "description": "Thousands of successful cases and satisfied clients across the nation",
+      "highlight": "1500+ Cases",
+      "highlightIcon": "Award",
+      "color": "from-purple-500 to-purple-600"
+    },
+    {
+      "id": 4,
+      "icon": "Handshake",
+      "title": "Personalized Approach",
+      "description": "Every case receives individual attention and customized legal strategies",
+      "highlight": "24/7 Support",
+      "highlightIcon": "Clock",
+      "color": "from-amber-500 to-amber-600"
+    },
+    {
+      "id": 5,
+      "icon": "TrendingUp",
+      "title": "Results-Driven",
+      "description": "Focused on achieving the best possible outcomes for our clients",
+      "highlight": "99% Success",
+      "highlightIcon": "TrendingUp",
+      "color": "from-red-500 to-red-600"
+    },
+    {
+      "id": 6,
+      "icon": "Globe",
+      "title": "Global Network",
+      "description": "Connected with law firms worldwide to serve your international needs",
+      "highlight": "20+ Countries",
+      "highlightIcon": "Users",
+      "color": "from-indigo-500 to-indigo-600"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Understanding Corporate Tax Changes",
+      "excerpt": "Recent tax reforms and their impact on businesses",
+      "date": "2024-01-15",
+      "author": "John Anderson",
+      "category": "Corporate Law",
+      "image": "/images/blog-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Your Rights During a Police Stop",
+      "excerpt": "Know what to do when stopped by law enforcement",
+      "date": "2024-01-10",
+      "author": "Sarah Martinez",
+      "category": "Criminal Defense",
+      "image": "/images/blog-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Divorce Mediation vs. Litigation",
+      "excerpt": "Choosing the right path for your family",
+      "date": "2024-01-05",
+      "author": "Michael Chen",
+      "category": "Family Law",
+      "image": "/images/blog-3.jpg"
+    }
+  ]
+}
