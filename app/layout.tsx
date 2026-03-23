@@ -3,7 +3,8 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 import { ThemeProvider } from '@/contexts/theme-context'
 import { Navigation } from '@/components/layout/Navigation'
-// import { Footer } from '@/components/layout/Footer'
+import { Footer } from '@/components/layout/Footer'
+import { FloatingButtons } from '@/components/ui/FloatingButtons'
 import { cn } from '@/lib/utils'
 
 const inter = Inter({ subsets: ['latin'] })
@@ -25,7 +26,8 @@ export default function RootLayout({
           <div className="relative flex min-h-screen flex-col">
             <Navigation />
             <main className="flex-1">{children}</main>
-            {/* <Footer /> */}
+            <Footer />
+            <FloatingButtons />
           </div>
         </ThemeProvider>
       </body>
